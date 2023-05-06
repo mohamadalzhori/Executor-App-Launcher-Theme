@@ -3,8 +3,3 @@ This repo includes some files related to the executor app launcher that I use on
 
  **Download the app at:** https://executor.dk/
  
- 
- ### Here is a list:
- - one
- - two
- > this is two
